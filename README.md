@@ -52,8 +52,8 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 4. Enter Data and Predict: Input values for each feature, and click "Predict" to receive a prediction of either "Good" or "Bad" creditworthiness.
 
 ## Data
-   The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their creditworthiness.
-  
+   The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their credit-worthiness.
+    You can download the dataset from the kaggle:
    ```bash
       https://www.kaggle.com/datasets/parisrohan/credit-score-classification   
    ```
