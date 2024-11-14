@@ -7,7 +7,7 @@ This repository contains a machine learning project for predicting creditworthin
 - [Files](#files)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data](#data)
+- [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [License](#license)
 
@@ -53,7 +53,10 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 
 ## Data
    The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their creditworthiness.
-
+  
+   ```bash
+      https://www.kaggle.com/datasets/parisrohan/credit-score-classification   
+   ```
 ## Dependencies
 - pandas
 - sckit-learn
