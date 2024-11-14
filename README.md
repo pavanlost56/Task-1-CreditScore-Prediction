@@ -38,7 +38,7 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
     ```
 ##  Usage 
 
-1.**Train the Model:** Run train_model.py to train and save the model.
+1. **Train the Model:** Run train_model.py to train and save the model.
    
    ```bash
      python train_model.py
@@ -48,8 +48,7 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
     ```bash
      python credit_scoring.py
     ```
-
-4. Enter Data and Predict: Input values for each feature, and click "Predict" to receive a prediction of either "Good" or "Bad" creditworthiness.
+3. Enter Data and Predict: Input values for each feature, and click "Predict" to receive a prediction of either "Good" or "Bad" creditworthiness.
 
 ## Data
 The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their credit-worthiness.
