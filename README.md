@@ -53,8 +53,8 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 ## Data
 The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their credit-worthiness.
     
-**You can download the dataset from the kaggle:**
-   
+ **You can download the dataset from the kaggle:**
+
    ```bash
       https://www.kaggle.com/datasets/parisrohan/credit-score-classification   
    ```
@@ -65,11 +65,12 @@ The data for training the model is stored in credit_data.csv. It includes variou
 - joblib
 - tkinter
 
-Install dependencies with:
+  Install dependencies with:
   
-  ```bash
+    ```bash
      pip install -r requirements.txt
-  ```
+
+    ```
 ##  License
 This project is licensed under the MIT License.
 This Markdown text is ready to be saved as `README.md` in your repository. Let me know if there are any additional details you’d like to include!
