@@ -53,7 +53,7 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 
 ## Data
    The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their credit-worthiness.
-    You can download the dataset from the kaggle:
+    **You can download the dataset from the kaggle:**
    ```bash
       https://www.kaggle.com/datasets/parisrohan/credit-score-classification   
    ```
