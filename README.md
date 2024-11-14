@@ -49,7 +49,7 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 - sckit-learn
 - joblib
 - tkinter
-** Install dependencies with:**
+Install dependencies with:
   ```bash
      pip install -r requirements.txt
   ```
