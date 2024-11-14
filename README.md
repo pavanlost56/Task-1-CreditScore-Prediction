@@ -21,29 +21,39 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 
 ## Installation
 1. **Clone the repository:**
-   ```bash
+
+    ```bash
    git clone https://github.com/your-username/credit-scoring-model.git
-2. **Navigate to the repository folder:**
+    ```
+    
+3. **Navigate to the repository folder:**
+
    ```bash
       cd credit-scoring-model
    ```
-3. **Install the required packages:**
+5. **Install the required packages:**
+
     ```bash
        pip install -r requirements.txt
     ```
 ##  Usage 
-1.  **Train the Model:** Run train_model.py to train and save the model.
-    ```bash
+
+1.**Train the Model:** Run train_model.py to train and save the model.
+   
+   ```bash
      python train_model.py
-    ```
+   ```
+
 2. **Launch the GUI Application:** Run credit_scoring.py to open the GUI for making predictions.
     ```bash
      python credit_scoring.py
     ```
-3. Enter Data and Predict: Input values for each feature, and click "Predict" to receive a prediction of either "Good" or "Bad" creditworthiness.
+
+4. Enter Data and Predict: Input values for each feature, and click "Predict" to receive a prediction of either "Good" or "Bad" creditworthiness.
 
 ## Data
    The data for training the model is stored in credit_data.csv. It includes various financial attributes of applicants that help predict their creditworthiness.
+
 ## Dependencies
 - pandas
 - sckit-learn
@@ -51,9 +61,10 @@ The Credit Scoring Model is designed to predict whether a credit applicant is "G
 - tkinter
 
 Install dependencies with:
+  
   ```bash
      pip install -r requirements.txt
   ```
 ##  License
-  This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 This Markdown text is ready to be saved as `README.md` in your repository. Let me know if there are any additional details you’d like to include!
